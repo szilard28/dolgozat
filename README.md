@@ -1,1 +1,1 @@
-# dolgozat
+# Dolgozat
