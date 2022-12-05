@@ -1,1 +1,4 @@
 # Dolgozat
+
+
+Jandó Szilárd
